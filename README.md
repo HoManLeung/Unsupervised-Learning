@@ -8,4 +8,4 @@ Unsupervised Learning is a machine learning technique in which the users do not 
 
 3. Density estimation: this is the task of estimating the  probability density function(PDF) of the random process that generated the dataset. This is commonly used for anomaly detection: instances located in very low-density regions are likely to be anomalies. It is also useful for data analysis and visualization.
 
-![image](https://user-images.githubusercontent.com/58495173/112461824-4ad74000-8d9b-11eb-86df-4d867841531d.png)
+![image](https://user-images.githubusercontent.com/58495173/112462307-dea90c00-8d9b-11eb-9e06-286f0affbb8d.png)
